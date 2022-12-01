@@ -23,7 +23,7 @@ async def texto(ctx,   habbofont, *, texto):
             embed=discord.Embed(title="Fuente habbo Hotel", url="https://habbofont.net", description=f"")
     
             embed.set_image(url=f"attachment://Fuente.png")
-            embed.set_footer(text="Créditos habbofont.net -  Programado Por Jose89fcb")
+            embed.set_footer(text="Créditos habbofont.net -  BOT Programado Por Jose89fcb")
             await ctx.send(embed=embed, file=discord.File(fp=imagen_binary, filename=f"Fuente.png"))
     else:
         await ctx.send(f":(")
