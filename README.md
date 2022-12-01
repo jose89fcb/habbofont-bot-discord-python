@@ -1,3 +1,15 @@
+<br>
+Para usar el bot:
+<br>
+!texto + fuente + texto:
+<br>
+!texto unknown_pillow_2 hola que tal
+<br>
+Lista de todas las fuentes:<a href="https://github.com/jose89fcb/habbofont-bot-discord-python/blob/main/Lista%20de%20fuentes.txt">https://github.com/jose89fcb/habbofont-bot-discord-python/blob/main/Lista%20de%20fuentes.txt</a>
+
+<br>
+
+
 él bot se ira mejorando poco a poco..
 
 <img src="https://i.imgur.com/j7L5gVS.png">
