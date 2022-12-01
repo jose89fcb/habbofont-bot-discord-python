@@ -51,7 +51,7 @@ executive
 explore
 explore_big
 explore_small
-f.a.q.
+faq
 f.bomb
 festival
 flags
