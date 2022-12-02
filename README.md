@@ -1,3 +1,6 @@
+Necesitas instalar python 3.7
+<br>
+
 <br>
 <br>
 Para usar el bot:
